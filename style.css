@@ -1,5 +1,6 @@
 * {
     margin: 0px;
+    padding: 0px;
 }
 .HEAD {
     margin-top: 50px;
@@ -8,9 +9,6 @@ body {
     text-align: center;
     font-family: "Courier New", Courier, monospace;
     background-color: lightblue;
-}
-h1 {
-    
 }
 
 ul {
